@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Minh Le 	duyminh.le310@gmail.com
 
 # THANKS
 
