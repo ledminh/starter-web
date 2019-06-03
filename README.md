@@ -5,6 +5,7 @@ Adding a line for rebasing example.
 Then more changes to my feature branch too.
 Some more texts.
 Then, again, more changes from my feature branch too.
+Updateing for emergency fix after stashing.
 
 ## Introduction
 
