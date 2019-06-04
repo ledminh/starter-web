@@ -25,6 +25,8 @@ Please fork this repository and then issue Pull Reqests for review.
 
 ## Update from Dev-1
 
+## Update from Dev-2
+
 ### Copyright
 
 2014.Git.Training. All rights reserved.
